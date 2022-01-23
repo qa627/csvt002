@@ -1,0 +1,40 @@
+#index {
+  margin: 8%;
+  font-size: 1.5em;
+}
+#article {
+  font-size: 1.5em;
+}
+
+#input {
+  margin: auto;
+  text-align: center;
+}
+
+#name {
+  font-size: 3em;
+  color: saddlebrown;
+  margin: 10px 0px;
+  text-align: center;
+}
+
+#button-in {
+  background-color:darkblue;
+  border: 0.15em solid blue;
+  color: white;
+  text-decoration: none;
+  margin: 0em .5em;
+  padding: 0.5em;
+  height: auto;
+  text-align: center;
+  font-size: 1em;
+  border-radius: 8px;
+}
+
+#inter {
+  font-size: 1em;
+  text-align: center;
+  width: 20%;
+  height: auto;
+  padding: 0.5em;
+}
